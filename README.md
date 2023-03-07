@@ -25,11 +25,11 @@ The following REQUIRED features are completed:
 
 The following STRETCH features are implemented:
 
-- [ ] TODO
+- [ ] Maybe in the future :)
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [ ] Maybe in the future :)
 
 ## Video Demo
 

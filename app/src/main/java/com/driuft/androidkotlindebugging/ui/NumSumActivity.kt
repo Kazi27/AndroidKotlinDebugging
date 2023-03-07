@@ -4,7 +4,7 @@ import android.os.Bundle
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.driuft.androidkotlindebugging.R
-
+//
 class NumSumActivity : AppCompatActivity() {
 
     private val resultText: TextView get() = findViewById(R.id.result_text)

@@ -1,6 +1,6 @@
 # AND101 Project 2 - Kotlin Debug-a-thon
 
-Submitted by: **Kazi Anware**
+Submitted by: **Kazi Anwar**
 
 Time spent: **2** hours spent in total
 

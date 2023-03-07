@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
         challengeFiveButton.setOnClickListener { launchPrintListActivity() }
         challengeSixButton.setOnClickListener { launchFavoriteNumberActivity() }
     }
-
+//
     private fun launchHelloWorldActivity() {
         val i = Intent(this, HelloWorldActivity::class.java)
         startActivity(i)

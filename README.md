@@ -2,7 +2,7 @@
 
 Submitted by: **Kazi Anwar**
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Summary
 
@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/0HymitK.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/mf8EsOx.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **imgur**
 
